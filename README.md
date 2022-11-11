@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Immuna - TakeHome Assignment - Frank Albanese
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This project demonstrates 3 scripts displaying real-time monitoring capabilities (Forta GraphQL with live Ethereum Mainnet transactions) for Anomaly Detection, Suspicious Contract Interaction, and Tornado Cash Monitoring. Each agent can be found in the ``` agents ``` directory. 
